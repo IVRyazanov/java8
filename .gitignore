@@ -1,0 +1,10 @@
+*.idea
+*.iml
+target/
+storage-ant/default/*
+/com
+/idea
+overlays/
+build/
+/out
+.MD5Sums
